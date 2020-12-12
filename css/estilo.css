@@ -1,0 +1,355 @@
+body {
+	margin:0px;
+	line-height:1.5;
+	font-family: 'Lato', sans-serif;	
+}
+
+h2 {
+	text-align:center;
+	font-weight:300;	
+}
+
+header {
+	padding-top:10px;
+}
+
+
+.titulosh2{
+	width:30%;
+	margin:Auto;
+	padding:3px;
+	border-bottom:2px solid black;
+}	
+	
+.contenh {
+	width:80%;
+	margin:auto;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.navegacion a {
+	text-decoration:none;
+	color:black;
+	margin-right:22px;	
+}
+
+.navegacion a:hover{
+	color:#F78A08;
+}
+
+.sectimg img{
+	width:100%;
+	margin-top:20px;		
+}	
+	
+.contmain{
+	width:80%;
+	margin:Auto;
+	display:flex;
+	justify-content:space-evenly;
+	padding-top:40px;
+}	
+
+.artimain {
+	width:25%;
+	
+}
+
+.contimgmain{
+	width:70px;
+	margin:auto;
+
+}
+
+.contimgmain img {
+	width:100%;	
+}	
+.textmain {
+	text-align:center;	
+	padding:20px;
+}
+
+.contblog {
+	width:90%;	
+	margin:auto;
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:44px;
+}	
+
+.artblog {
+	width:25%;	
+	border:1px solid black;
+	height:520px;
+}	
+
+.artblog img {
+	width:100%;	
+}	
+
+.artblog span {
+	color:#F78A08;
+	font-size:15px;
+	
+}	
+
+.textblog {
+	padding-left:11px;	
+	padding-right:11px;
+}	
+
+.textblog a{
+	text-align:center;
+	text-decoration:none;
+	background:#F78A08;
+	padding:12px 115px;
+	font-size:15px;	
+	color:white;
+}	
+
+.textblog a:hover{
+	color:blue;
+}
+
+.sectrecom{
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:50px;
+}	
+
+.contrecom {
+	width:50%;
+	margin:auto;
+	
+}	
+
+.pie {
+	border-top:solid 3px #F78A08;
+	padding:20px;	
+}
+
+.contpie {
+	width:90%;
+	margin:auto;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}	
+
+.orange {
+		color:#F78A08;
+}	
+
+.green {
+	color:green;	
+}	
+
+
+.aqua {
+	color:aqua;	
+}	
+
+/*Para la hoja nosotros.html*/
+
+
+/* .arttext2 {
+	width:35%;
+	margin-left:200px;
+	margin:Auto;
+	font-family:Arial narrower;
+	line-height:1.2;
+} */
+	
+/* .images2 {
+	display:flex;
+	margin-right:40px;
+
+}	 */
+	
+/* .images2.1{
+	margin-right:40px;
+}	
+ */
+/* .padre {
+	display:flex;
+	margin-top:30px;
+	padding-right:20px;
+	
+}	 */
+
+.titulosh2h{
+	width:30%;
+	margin:Auto;
+	margin-bottom:80px;
+	border-bottom:2px solid black;
+	text-align:center;
+	margin-top:60px;
+}	
+
+.consect {
+	width:87%;
+	margin:Auto;
+	display:flex;
+}	
+	
+	
+.cajaimg img {
+	width:87%;
+	margin:auto;
+	justify-content:space-evenly;
+	padding-right:20px;
+	margin-top:20px;
+	margin:AUTO;
+}	
+	
+.space {
+	margin-top:80px;	
+}	
+
+h4 {
+	margin-top:40px;
+	text-align:center;
+}	
+
+.orangey {
+	color:#F78A08;
+	margin:Auto;
+	padding-left:124px;
+}	
+
+/*Para la hoja entrada.html*/
+.titulosh2parte3 {
+	width:30%;
+	margin:Auto;
+	padding:3px;
+	border-bottom:2px solid black;
+}	
+	
+.contimg3 {
+	margin-top:20px;
+	width:100%;	
+}	
+	
+.contimg3 img{
+	width:80%;
+	padding-right:20px;
+	margin-top:20px;
+	margin-left:120px;
+	
+}		
+	
+.Textocentrado {
+	text-align:left;
+	font-weight:300;	
+	margin-top:20px;
+	margin-left:120px;
+
+} 	
+
+.orange3 {
+	color:#F78A08;
+	font-size:15px;
+}	
+	
+.parrafoconblog3 {
+	width:80%;
+	margin:auto;
+	margin-top:20px;
+	margin-left:120px;
+}	
+	
+.espacios3 {
+	margin-bottom:50px;
+}	
+
+
+/*Para la hoja productos.html*/
+.alineamiento {
+	width:90%;
+	margin:auto;	
+}	
+
+.spaceproductos {
+	margin-top:40px;		
+}	
+
+.productoh4{
+	color:black;
+	text-align:left;
+	margin:auto;
+}	
+
+.productoh5 {
+	color:#F78A08;
+	margin:auto;
+}	
+
+/*Agregado*/
+
+.H3Titulo {
+	display: flex;
+	margin:auto;
+	width: 90%;
+	
+
+}
+
+.Div{
+	width: 45%;
+	margin:auto;
+	padding-top:40px;
+}
+
+
+.Div2{
+	width: 45%;
+	margin:auto;
+	padding-top:40px;
+}
+
+.textblando {
+	font-family: arial;
+	color:#4D4D4E;
+	font-size: 14px;
+	margin:auto;
+	text-align:left;
+}
+
+.Mover {
+	margin-top:20px;
+	
+}
+
+.textocentradoNos {
+	color:red;
+	margin-right:66px;	
+	padding-bottom:50px;
+}	
+
+/* Esto es para contacto.html*/
+
+.titulosh2Co{
+	width:50%;
+	margin:Auto;
+	padding:3px;
+	border-bottom:2px solid black;
+	font-size:14px;
+}	
+
+.btnsubmit {
+	color:white;	
+	background:#F78A08;
+	font-size:20px;
+	cursor:pointer;
+}	
+
+.Form  {
+	color:#F78A08;
+		
+	
+	
+}
+	
+
